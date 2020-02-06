@@ -7,3 +7,4 @@ Finished Q58
 ```
 split() function: str.split( ) means Space-separated
 ```
+Q69 ```math.sqrt()```
