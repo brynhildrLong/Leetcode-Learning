@@ -16,3 +16,7 @@ Remove all rigth position element and get bulls number
 
 Remove all repeat elements in guess and calculate the rows
 ```
+### 2020/02/12
+Finished Q134
+```
+```
