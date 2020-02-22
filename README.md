@@ -20,3 +20,10 @@ Remove all repeat elements in guess and calculate the rows
 Finished Q134
 ```
 ```
+
+### 2020/02/22
+Finished Q334
+```
+ float('inf') means gigantic
+ float('-inf') means Infinitely small
+```
