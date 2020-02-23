@@ -27,3 +27,9 @@ Finished Q334
  float('inf') means gigantic
  float('-inf') means Infinitely small
 ```
+
+### 2020/02/23
+Finished Q164
+```
+Sort list and compare one by one
+```
