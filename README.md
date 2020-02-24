@@ -46,6 +46,8 @@ Thirdly, using two points.# Find the intersection point of the two runners.
 
 ### 2020/02/24
 Finished Q289
+```
 For e.g. If the value of the cell was 1 originally but it has now become 0 after applying the rule, then we can change the value to -1. The negative sign signifies the cell is now dead(0) but the magnitude signifies the cell was a live(1) cell originally.
 
 Also, if the value of the cell was 0 originally but it has now become 1 after applying the rule, then we can change the value to 2. The positive sign signifies the cell is now live(1) but the magnitude of 2 signifies the cell was a dead(0) cell originally.
+```
