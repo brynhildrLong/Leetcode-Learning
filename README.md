@@ -40,5 +40,6 @@ There are three solutions
 Firstly, sorting and compare nums[i-1] and nums[i]
 Secondly, using set function, insert num which is not in seeen
 Thirdly, using two points.# Find the intersection point of the two runners.
-  We need second loop because in first loop both pointers might end up at the same index and hence we will get a number which might not be a duplicate. The first loop just gives us the intersection of the indexes, the second loop returns the index to the duplicate number.
+  We need second loop because in first loop both pointers might end up at the same index and hence we will get a number which might not be a duplicate. 
+  The first loop just gives us the intersection of the indexes, the second loop returns the index to the duplicate number.
 ```
