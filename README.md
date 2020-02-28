@@ -59,3 +59,8 @@ DP is the solution.
 Save the max value and min value at ith element. Because of negative number, maybe negative min value could be max value at next element.
 
 ```
+### 2020/02/28
+Finished Q228
+```
+Using 3 pointers to finish it
+```
