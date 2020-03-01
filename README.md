@@ -97,3 +97,7 @@ If nums [curr] = 2: Swap the curr and p2 elements, and move the p2 pointer to th
 If nums [curr] = 1: Move the pointer curr to the right.
 
 ```
+Finished Q283
+```
+using remove() and append() function to remove and add 0
+```
