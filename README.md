@@ -64,3 +64,19 @@ Finished Q228
 ```
 Using 3 pointers to finish it
 ```
+
+### 2020/02/29
+Finished Q88
+```
+Solution 1:
+Merge two list and then sort
+
+Solution 2:
+Using two points from head to the end.
+Using another list to save m elements of nums1
+
+Solution 3:
+Using three points from back to fornt
+Two points used compared nums1 and nums2
+One used save the compared number
+```
