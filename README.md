@@ -80,3 +80,20 @@ Using three points from back to fornt
 Two points used compared nums1 and nums2
 One used save the compared number
 ```
+
+
+### 2020/03/01
+Finished Q75
+```
+Solution 1:
+sort() function
+
+Solution 2:
+Using 3 pointers
+If nums [curr] = 0: swap the curr and p0 elements, and move the pointer to the right.
+
+If nums [curr] = 2: Swap the curr and p2 elements, and move the p2 pointer to the left.
+
+If nums [curr] = 1: Move the pointer curr to the right.
+
+```
