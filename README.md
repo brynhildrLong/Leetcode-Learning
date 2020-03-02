@@ -101,3 +101,15 @@ Finished Q283
 ```
 using remove() and append() function to remove and add 0
 ```
+
+### 2020/03/02
+Finished Q376
+```
+Solution -- Liner DP
+If nums [i]> nums [i-1] nums [i]> nums [i−1], it means that the swing is rising here, and the previous number must be in the falling position. So up [i] = down [i-1] + 1up [i] = down [i−1] +1, down [i] down [i] remains the same as down [i-1] down [i−1] .
+
+If nums [i] <nums [i-1] nums [i] <nums [i−1], it means that here the swing is falling, the previous number must be in the falling position. So down [i] = up [i-1] + 1down [i] = up [i−1] +1, up [i] up [i] and up [i-1] up [i−1] remain unchanged change.
+
+If nums [i] == nums [i-1] nums [i] == nums [i−1], it means that this element will not change anything because it has no wobble. So down [i] down [i] and up [i] up [i] and down [i-1] down [i−1] and up [i-1] up [i−1] remain unchanged, respectively.
+
+```
